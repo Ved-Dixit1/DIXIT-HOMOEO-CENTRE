@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://homoeo-healthcare.in/sitemap.xml
